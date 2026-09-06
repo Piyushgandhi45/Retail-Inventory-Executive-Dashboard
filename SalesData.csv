@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Customer_Segment,Product_Category,Product_Name,Region,Payment_Mode,Quantity,Cost_INR,Profit_INR,Discount_Pct,Is_Returned
+ORD1001,2025-01-15,Consumer,Electronics,Smartphone X,West,UPI,2,15000,3000,0.05,No
+ORD1002,2025-01-18,Corporate,Furniture,Office Chair,North,Credit Card,1,4500,1200,0.10,No
+ORD1003,2025-01-20,Home Office,Home & Kitchen,Blender Pro,South,Debit Card,3,2000,600,0.00,No
+ORD1004,2025-01-22,Consumer,Apparel,Winter Jacket,East,Net Banking,2,2500,800,0.15,No
+ORD1005,2025-01-25,Corporate,Beauty & Personal Care,Skincare Kit,West,Cash on Delivery,4,1200,450,0.00,Yes
