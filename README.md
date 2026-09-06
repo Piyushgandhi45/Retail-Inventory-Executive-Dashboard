@@ -42,6 +42,7 @@ In the fast-paced retail sector, management needs instant visibility into revenu
 * **Version Control:** GitHub for documentation and portfolio presentation.
 
 ---
-
 ## 📸 Dashboard Preview
-*(Add your dashboard screenshots inside a `Screenshots/` folder in your repository)*
+Here is a quick look at the enterprise-grade Power BI dashboard:
+
+![Dashboard Overview](Screenshot%202026-09-06%20125335.png)
